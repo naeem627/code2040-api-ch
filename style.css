@@ -1,0 +1,53 @@
+/*CODE 2040 Challenge Problems CSS, Naeem Turner-Bandele January 2015 */
+body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+h1{
+  text-align:center;
+  margin:auto;
+}
+#challenge1 h2,
+#challenge2 h2,
+#challenge3 h2,
+#challenge4 h2{
+  color:#fff;
+}
+#challenge1,
+#challenge2,
+#challenge3,
+#challenge4{
+  float:center;
+  text-align:center;
+  background-color:#1794ef;
+  color:#000;
+  width:auto;
+  margin:auto;
+  height:auto;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 20px;
+  -moz-border-radius-bottomright: 30px;
+  -moz-border-radius-bottomleft: 20px;
+
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 20px;
+  -webkit-border-bottom-right-radius: 30px;
+  -webkit-border-bottom-left-radius: 20px;
+}
+
+#challenge1{
+  background-color:#1794ef;
+}
+#challenge2{
+  background-color:orange;
+}
+
+#challenge3{
+  background-color:#58d634;
+}
+
+#challenge4{
+  background-color:#ed1b24;
+}
